@@ -6,16 +6,16 @@ h1{
 
 }
 ul{
-    list-style-type: none;    /* This property is used to remove the dots form the list*/
-    margin: 0;     /* This both properties used to remove the default browser space*/
+    list-style-type: none;    
+    margin: 0;     
     padding: 0;
     overflow: hidden;
     background-color: white;
 
 }
 li{
-    float: left;     /* insteed of inline property we can also use this property to assign all elements in straight line*/
-    border-right: 1px solid black;    /* This propety is used for draw the lines between the elements*/
+    float: left;    
+    border-right: 1px solid black;   
 }
 li a{
     display: block;
