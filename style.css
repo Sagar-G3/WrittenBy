@@ -1,0 +1,91 @@
+body{
+    background-color: black; color: white;
+}
+h1{
+    color: goldenrod;
+
+}
+ul{
+    list-style-type: none;    /* This property is used to remove the dots form the list*/
+    margin: 0;     /* This both properties used to remove the default browser space*/
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+
+}
+li{
+    float: left;     /* insteed of inline property we can also use this property to assign all elements in straight line*/
+    border-right: 1px solid black;    /* This propety is used for draw the lines between the elements*/
+}
+li a{
+    display: block;
+    padding: 11px 13px;
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+    background-color: goldenrod;
+    color: white;
+}
+.link{
+   align-items: center;
+}
+.logo{
+   display: block; 
+   margin-left: auto;
+   margin-right: auto;
+}
+.para1{
+    text-align: center;
+    font-weight: 200;
+    font-size: 50px;
+    font-family: papyrus;
+    color: goldenrod;
+    line-height: 10px;
+}
+.para2{
+    text-align: center;
+    font-weight: 200;
+    font-size: 80px;
+    font-family: papyrus;
+    color: goldenrod;
+    line-height: 5px;
+}
+p{
+    text-align: center;
+    
+}
+h2{
+    color: goldenrod;
+    text-align: center;
+    font-size: 50px;
+}
+.coloumn1{
+    display: inline;
+    margin-left: 230px;
+    margin-right: 200px;
+
+}
+.coloumn2{
+    display: inline;
+    margin-left: 230px;
+    margin-right: 200px;
+}
+img{
+    border-radius: 10px;
+}
+
+p a{
+    text-decoration: none;
+    color: goldenrod;
+}
+.us{
+    text-align: left;
+    color: white;
+}
+h5{
+   color: goldenrod;
+}
+h4, textarea{
+    text-align: center;
+}
