@@ -97,49 +97,7 @@ We welcome contributions to **Writtenby**! If you want to contribute to the proj
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
 
-# WrittenBy - Fictional Story eBook Application
-
-WrittenBy is a simple and user-friendly eBook application that allows readers to discover, read, and interact with fictional stories in various genres. Whether you love fantasy, mystery, or romance, WrittenBy offers a wide selection of stories to explore. 
-
-## Features
-
-- Browse and read fictional stories
-- Bookmark your favorite stories
-- Track your reading progress
-- Save stories for offline reading
-- Comment on chapters and interact with authors
-- Personalized recommendations based on reading history
-
-
 ## Installation Instructions
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- Node.js (version 14.x or higher)
-- npm (Node Package Manager)
-
-### Steps to Install
-
-1. Clone the repository:
-
-      git clone https://github.com/your-username/writtenby.git
-  
-2. Navigate into the project folder:
-
-      cd writtenby
-  
-3. Install dependencies:
-
-      npm install
-  
-4. Run the development server:
-
-      npm start
-   
-   The application will be available at `http://localhost:3000`.
-
 
 ## Usage Examples
 
