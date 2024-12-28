@@ -107,25 +107,20 @@ After successfully setting up WrittenBy, here are some examples of how to use th
  
    - On the homepage, you can browse a variety of stories by genre or popularity. Simply click on a story to start reading.
    
-   ![Browse Stories](https://via.placeholder.com/600x300?text=Browse+Stories+Screenshot)
    
 2. Bookmark a Story :
  
    - To bookmark a story, click the bookmark icon on the story page. You can view your saved stories from the "My Library" section.
 
-   ![Bookmark Story](https://via.placeholder.com/600x300?text=Bookmark+Story+Screenshot)
    
 3. Read Offline :
  
    - To read a story offline, select the "Download" button, which allows you to access the content anytime without an internet connection.
 
-   ![Offline Reading](https://via.placeholder.com/600x300?text=Offline+Reading+Screenshot)
    
 4. Add Comments :
  
    - Engage with the story's author and other readers by leaving comments on chapters.
-
-   ![Add Comments](https://via.placeholder.com/600x300?text=Add+Comments+Screenshot)
 
 
 ## How to Contribute
